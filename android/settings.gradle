@@ -1,0 +1,3 @@
+rootProject.name = 'WordSqueeze'
+
+include ':app'
